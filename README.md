@@ -180,3 +180,40 @@ This will:
 * https://www.reddit.com/r/hackintosh/
 * https://www.insanelymac.com/forum/
 * https://www.olarila.com/
+
+
+TOOLS
+macOS Sonoma Image File (Choose any)
+Sonoma 14.1.1: https://cutt.ly/VwYvgSbZ
+Sonoma 14.2:  https://cutt.ly/RwHGhWKY
+Sonoma 14.2.1: https://cutt.ly/fwHGh1or
+
+balenaEtcher:
+https://etcher.balena.io/
+
+MiniTool Partition Wizard:
+https://www.partitionwizard.com/free-...
+
+Gen SMBIOS:
+https://github.com/corpnewt/GenSMBIOS
+
+Proper Tree:
+https://github.com/corpnewt/ProperTree
+
+Explorer++:
+https://explorerplusplus.com/download
+
+macOS Sonoma Installer Image File:
+https://cutt.ly/VwYvgSbZ
+
+Opencore EFI File:
+https://cutt.ly/jwTEzsxg
+
+POST INSTALLATION
+Opencore Configurator:
+https://etechbox.com/download/downloa...
+
+Check Mac Serial:
+https://checkcoverage.apple.com
+
+Post Installation Opencore EFI is the same with installation EFI
