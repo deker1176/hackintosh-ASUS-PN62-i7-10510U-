@@ -2,7 +2,7 @@
 
 This is the hackintosh based on OpenCore bootloader for [ASUS Mini PC PN62](https://www.asus.com/us/Mini-PCs/Mini-PC-PN62/).
 
-Tested with macOS Sonoma 14.2.1. If you want macOS Sonoma, change basic kext AirportItlwm with [Catalina support](https://heliport.bat-bat.workers.dev/https://github.com/OpenIntelWireless/itlwm/releases/download/v1.1.0/AirportItlwm_v1.0_Beta_Catalina.kext.zip).
+Tested with macOS Sonoma 14.2.1. If you want macOS Sonoma, change basic kext AirportItlwm with.
 
 ![Hackintosh](misc/pn62.png)
 
