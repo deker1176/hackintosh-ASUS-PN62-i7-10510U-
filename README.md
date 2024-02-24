@@ -182,34 +182,34 @@ This will:
 * https://www.olarila.com/
 
 
-TOOLS
+## TOOLS
 macOS Sonoma Image File (Choose any)
 * Sonoma 14.1.1: https://cutt.ly/VwYvgSbZ
 * Sonoma 14.2:  https://cutt.ly/RwHGhWKY
 * Sonoma 14.2.1: https://cutt.ly/fwHGh1or
 
-balenaEtcher:
+## balenaEtcher:
 https://etcher.balena.io/
 
-MiniTool Partition Wizard:
+## MiniTool Partition Wizard:
 https://www.partitionwizard.com/free-...
 
-Gen SMBIOS:
+## Gen SMBIOS:
 https://github.com/corpnewt/GenSMBIOS
 
-Proper Tree:
+## Proper Tree:
 https://github.com/corpnewt/ProperTree
 
-Explorer++:
+## Explorer++:
 https://explorerplusplus.com/download
 
-macOS Sonoma Installer Image File:
+## macOS Sonoma Installer Image File:
 https://cutt.ly/VwYvgSbZ
 
-Opencore EFI File:
+## Opencore EFI File:
 https://cutt.ly/jwTEzsxg
 
-POST INSTALLATION
+## POST INSTALLATION
 Opencore Configurator:
 https://etechbox.com/download/downloa...
 
