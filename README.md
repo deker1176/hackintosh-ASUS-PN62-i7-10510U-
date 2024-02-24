@@ -184,9 +184,9 @@ This will:
 
 TOOLS
 macOS Sonoma Image File (Choose any)
-Sonoma 14.1.1: https://cutt.ly/VwYvgSbZ
-Sonoma 14.2:  https://cutt.ly/RwHGhWKY
-Sonoma 14.2.1: https://cutt.ly/fwHGh1or
+* Sonoma 14.1.1: https://cutt.ly/VwYvgSbZ
+* Sonoma 14.2:  https://cutt.ly/RwHGhWKY
+* Sonoma 14.2.1: https://cutt.ly/fwHGh1or
 
 balenaEtcher:
 https://etcher.balena.io/
