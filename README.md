@@ -203,9 +203,6 @@ https://github.com/corpnewt/ProperTree
 ## Explorer++:
 https://explorerplusplus.com/download
 
-## macOS Sonoma Installer Image File:
-https://cutt.ly/VwYvgSbZ
-
 ## Opencore EFI File:
 https://cutt.ly/jwTEzsxg
 
@@ -217,3 +214,23 @@ Check Mac Serial:
 https://checkcoverage.apple.com
 
 Post Installation Opencore EFI is the same with installation EFI
+
+## INSTALL MAC OS Sanoma 
+Create Bootable USB from DMG in Windows Via PowerISO
+Another well-known disk image utility is PowerISO. Apart from being ideal for burning ISO files, it can also burn a DMG file to USB to create a bootable drive. There are some settings that you have to keep in mind when burning with this software, but it's easy to get the hang of it once you do it a couple of times.
+
+Step 1: Download PowerISO and install it in your Windows PC. Launch the app and insert a USB drive into a free USB slot in your computer.
+
+Step 2: You can import the DMG file directly by clicking on ‘Burn' in the toolbar or going to Tools > Burn. In the Burn window, select the DMG file from the Source File section.
+
+Step 3:Now review the settings to select the burn speed. The default will be the maximum your hardware can handle, so you can reduce that. You can also choose to finalize the disk and verify it. Finalizing means you can't save any more files on the drive, but it primarily applies to DVDs and CDs. Choosing ‘Verify' will prompt the software to execute an additional process after the burning is done. Any errors in the bootable USB will show up at that point.
+
+Step 4: Now click on "Burn" and wait for the progress bar to reach 100%. Your bootable USB is now ready.
+
+PowerISO DMG Burning
+
+## MAC OS Sanoma 
+https://drive.google.com/file/d/1NaPVaoh_OfZK0FBy43PzA-cxQ4JuoV8w/view USB.Flash.Install.macOS.Sonoma.14.0.M4.dmg
+
+## UPDATE 14.08.2024 MAC OS Sonoma 14.6.1 (23G93) 
+Update Kext AirportItlwm.kext 
