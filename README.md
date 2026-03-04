@@ -4,9 +4,9 @@ This is the hackintosh based on OpenCore bootloader for [ASUS Mini PC PN62](http
 
 Tested with macOS Tahoe 26.3.
 
-![Hackintosh](misc/pn62.png)
 
-![Hackintosh](misc/macver.png)
+
+
 
 Current Bootloader: [OpenCore 0.9.6](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.6)
 
