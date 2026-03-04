@@ -2,13 +2,13 @@
 
 This is the hackintosh based on OpenCore bootloader for [ASUS Mini PC PN62](https://www.asus.com/us/Mini-PCs/Mini-PC-PN62/).
 
-Tested with macOS Sonoma 14.2.1. If you want macOS Sonoma, change basic kext AirportItlwm with.
+Tested with macOS Tahoe 26.3.
 
 ![Hackintosh](misc/pn62.png)
 
 ![Hackintosh](misc/macver.png)
 
-Current Bootloader: [OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.7)
+Current Bootloader: [OpenCore 0.9.6](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.6)
 
 ## Hardware:
 Note * - Not included in stock mini PC
@@ -95,7 +95,7 @@ Note * - Not included in stock mini PC
 | #    | Kext                                                         | Version | Description                                                  |
 | ---- | ------------------------------------------------------------ | ------- | :----------------------------------------------------------- |
 | 1    | [AirportItlwm](https://github.com/OpenIntelWireless/itlwm/releases) | 1.1.0   | WiFi driver and native WiFi menu                             |
-| 2    | [AppleALC](https://github.com/acidanthera/AppleALC/releases) | 1.5.5   | Native macOS HD audio for not officially supported codecs without any filesystem modifications |
+| 2    | [AppleALC](https://github.com/acidanthera/AppleALC/releases) | 1.9.6   | Native macOS HD audio for not officially supported codecs without any filesystem modifications |
 | 3    | [CPUFriendDataProvider](https://github.com/acidanthera/CPUFriend/releases) | 1.2.2   | CPU Power Management                                         |
 | 4    | [CtlnaAHCIPort](https://github.com/dortania/OpenCore-Install-Guide/blob/master/extra-files/CtlnaAHCIPort.kext.zip) | -       | SATA controllers                                             |
 | 5    | [FakePCIID_Intel_HDMI_Audio](https://bitbucket.org/RehabMan/os-x-fake-pci-id/downloads/) | 1027    | FakePCIID plugin, used for HDMI Audio                        |
@@ -103,13 +103,14 @@ Note * - Not included in stock mini PC
 | 7    | [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases) | 1.1.2   | Native Bluetooth support for Intel                           |
 | 8    | [IntelBluetoothInjector](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases) | 1.1.2   | `On`/`Off` switch on the Bluetooth panel, component of IntelBluetoothFirmware |
 | 9    | [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) | 1.0.4   | Driver for Intel NICs                                        |
-| 10   | [Lilu](https://github.com/acidanthera/Lilu/releases)         | 1.5.0   | A kext to patch many processes, required for AppleALC, WhateverGreen, VirtualSMC and many other kexts |
+| 10   | [Lilu](https://github.com/acidanthera/Lilu/releases)         | 1.7.1   | A kext to patch many processes, required for AppleALC, WhateverGreen, VirtualSMC and many other kexts |
 | 11   | [NVMeFix](https://github.com/acidanthera/NVMeFix/releases)   | 1.0.4   | Used for fixing power management and initialization on non-Apple NVMe |
 | 12   | [SMCProcessor](https://github.com/acidanthera/VirtualSMC/releases) | 1.1.9   | VirtualSMC plugin, used for monitoring CPU temperature       |
 | 13   | [SMCSuperIO](https://github.com/acidanthera/VirtualSMC/releases) | 1.1.9   | VirtualSMC plugin, used for monitoring fan speed             |
 | 14   | [USBMap](https://github.com/corpnewt/USBMap)                 | -       | Used for USB 2/3, Type-C, Bluetooth mapping                  |
-| 15   | [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) | 1.1.9   | Emulates the SMC chip found on real macs, without this macOS will not boot |
+| 15   | [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) | 1.3.7   | Emulates the SMC chip found on real macs, without this macOS will not boot |
 | 16   | [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases) | 1.4.5   | Used for graphics patching DRM, boardID, framebuffer fixes, etc, all GPUs benefit from this kext |
+| 16   | USBMAP | 1.0  | FIX USB MAP |
 --------
 
 ## ACPI SSDT:
